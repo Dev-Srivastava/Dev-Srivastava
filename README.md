@@ -43,7 +43,6 @@
 
 
 
-
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
@@ -56,6 +55,7 @@
 <p align="center">
 <a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
   
+  <!-- STATS -->
   <p align="center">
   <picture>
 <source 
@@ -70,7 +70,7 @@
 </picture>
   
   
-    
+  <!-- STREAK -->
   <p align="center">
   <picture>
 <source 
@@ -85,6 +85,7 @@
 </picture>
     
     
+  <!-- LANGUAGES -->
   <p align="center">
   <picture>
 <source 
@@ -106,32 +107,25 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<!--🐱CAT-->
+<!--CAT GIF-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-<!--🤔INTERESTTITLE-->
+<!--🤔INTERESTS TITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
 
-<!--🖼️🖼️INTERSTLOGOS-->
+<!--🖼️🖼️INTERSTS LOGOS-->
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
-
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
-https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg
-https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="60">
+
 
 </h4>
 
