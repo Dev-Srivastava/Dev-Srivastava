@@ -126,6 +126,13 @@
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
+https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg
+https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg
+
 </h4>
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
