@@ -128,13 +128,7 @@
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">                                                                                   
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="60">                                                                             
-<img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" width="60">                                                                                   
-<img src="" width="60">                                                                                   
-<img src="" width="60">                                                                                   
-<img src="" width="60">                                                                                   
-                      
-
-
+<img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" width="60">                                                                                                                                                                                                                                                                        
 </h4>
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
