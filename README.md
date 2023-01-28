@@ -125,6 +125,14 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">                                                                                   
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="60">                                                                             
+<img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" width="60">                                                                                   
+<img src="" width="60">                                                                                   
+<img src="" width="60">                                                                                   
+<img src="" width="60">                                                                                   
+                      
 
 
 </h4>
